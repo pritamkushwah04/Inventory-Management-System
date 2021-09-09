@@ -1,1 +1,1 @@
-{"1001": {"category": "chocolate", "curr_stock": "51", "min_stock": "50", "name": "dairymilk", "pr": "10"}}
+{"1": {"name": "melody", "price": "21", "qn": 2, "amount": 42}, "2": {"name": "snooy", "price": "10", "qn": 3, "amount": 30}, "3": {"name": "delta", "price": "10", "qn": 40, "amount": 400}}
