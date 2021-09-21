@@ -1,5 +1,5 @@
 # Inventory-Management-System
-Assignment summation 
+Project summation 
 
 This application has 2 users 
 1. Shop owner
